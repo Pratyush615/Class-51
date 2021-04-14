@@ -1,0 +1,39 @@
+h1{
+    color:#000000
+}
+/**{
+    border: solid;
+}*/
+.header{
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+h2,p{
+    text-align: center;
+    color: #FFFFFF
+}
+body{
+    background-color: #000000
+}
+img{
+    border: #FFFFFF;
+    border: solid;
+    color: #FFFFFF;
+}
+p{
+    font-size: 15px;
+    font-weight: bold;
+    color:#FFFFFF
+    
+}
